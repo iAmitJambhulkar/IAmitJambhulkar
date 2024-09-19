@@ -1,4 +1,7 @@
-## Hi there 👋
+## About Me
+
+Hello! I’m Amit Jambhulkar, an app developer specializing in Android and iOS applications. My expertise includes Flutter and native development. Currently, I’m expanding my skill set by exploring web development as well.
+
 
 <!--
 **iAmitJambhulkar/IAmitJambhulkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
