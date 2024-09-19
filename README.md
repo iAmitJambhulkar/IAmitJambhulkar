@@ -1,6 +1,8 @@
 ## About Me
 
-Hello! I’m Amit Jambhulkar, an app developer specializing in Android and iOS applications. My expertise includes Flutter and native development. Currently, I’m expanding my skill set by exploring web development as well.
+Hello! I’m Amit Jambhulkar, An Application Developer specializing in Android and iOS Applications. My expertise includes Flutter and native development. Currently, I’m expanding my skill set by exploring Web Development as well.
+
+
 
 
 <!--
