@@ -10,8 +10,7 @@ Hello! I’m Amit Jambhulkar, An Application Developer specializing in <br>Andro
 # 📊 Stats:
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iAmitJambhulkar&theme=dark&hide_border=true)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmitJambhulkar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-[![LeetCode Stats](https://leetcard.jacoblin.cool/iAmitJambhulkar?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/iAmitJambhulkar?theme=unicorn&extension=activity)
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/iAmitJambhulkar?theme=dark&extension=activity)](https://leetcard.jacoblin.cool/iAmitJambhulkar?theme=dark&extension=activity)
 
 
 # ✍️ Dev Quote
